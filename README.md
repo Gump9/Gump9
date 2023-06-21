@@ -3,8 +3,8 @@
 ✨ _special_ ✨
 
 - 🌱 currently learning DBMS
-- 💪 Want to become a contributor to an open source project
-- 🤔 I’m looking for help with being a better coder
+- 💪 Want to be a better coder
+- 🤔 New to open source
 - 📫 How to reach me: missyejing1@gmail.com
 - 😄 Pronouns: Paoer111
 
